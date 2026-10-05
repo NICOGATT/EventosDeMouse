@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\bin\Debug\net10.0\CapturaDeEventos.exe
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\bin\Debug\net10.0\CapturaDeEventos.deps.json
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\bin\Debug\net10.0\CapturaDeEventos.runtimeconfig.json
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\bin\Debug\net10.0\CapturaDeEventos.dll
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\bin\Debug\net10.0\CapturaDeEventos.pdb
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.dll
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\refint\CapturaDeEventos.dll
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.pdb
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaDeEventos.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\ref\CapturaDeEventos.dll
+C:\Users\ASUS\Documents\Nico\unahur\SO\CapturaDeEventos\CapturaDeEventos\obj\Debug\net10.0\CapturaD.4CE71178.Up2Date
